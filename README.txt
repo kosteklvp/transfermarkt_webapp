@@ -14,3 +14,7 @@ Przyk³adowy u¿ytkownik serwisu:
 login: admin
 has³o: admin
 
+Instrukcja:
+1. Proszê rozpakowaæ folder z pliku projekt.7z do folderu xampp/htdocs (tak, by œcie¿ka wygl¹da³a w ten sposób: "Partycja:\xampp\htdocs\projekt_v2"
+2. Proszê uruchomiæ xamppa oraz wpisaæ w adresie przegl¹darki "localhost/projekt_v2/" by móc testowaæ aplikacjê.
+

@@ -1,0 +1,55 @@
+body{
+	background-color: #f9c954;
+}
+
+
+
+table.table tr:hover td {
+background-color: #E54b29;
+cursor: pointer;
+}
+
+table.table th:hover {
+background-color: #85afdb;
+cursor: pointer;
+}
+
+table.table th {
+background-color: #97c1ed;
+}
+
+table.table {
+	border: 3px solid #aaa;
+	
+}
+
+.view_container {
+	background-color: #ffe8b2;
+	margin-top: 20px;
+	color: #c53b29;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.link:hover{
+	background-color: #85afdb;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.link{
+	padding: 2px;
+	background-color: #97c1ed;
+	border-radius: 5px;
+}
+
+.napis:hover{
+	
+}
+
+.napis{
+	padding: 2px;
+	border-radius: 5px;
+}
+
+
